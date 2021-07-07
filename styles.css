@@ -1,0 +1,44 @@
+h1{
+    color: rgb(0, 216, 235);
+}
+p{
+    color: rgb(30, 50, 87);
+}
+body{
+    background-color: rgb(185 179 180 / 61%);
+    text-align: center;
+    background-image: url(https://www.demonslayer.paninimanga.fr/assets/img/perso2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* .bg{
+    position: absolute;
+    
+    width: 600px;
+    height: 2000px;
+    float: inline-start;
+  
+    opacity: 0.1;
+
+} */
+/*background-image: url("https://www.demonslayer.paninimanga.fr/assets/img/perso2.png");
+
+    background-repeat: no-repeat;
+    background-size: cover;*/
+a{
+    margin: 10px ;
+}
+nav{
+    margin-left: 500px;
+}
+.nav:hover{
+    color: brown;
+    font-size: 20px;
+    transition: 2s;
+}
+.sec{
+    border-style: solid;
+    border-color: bisque;
+    padding: 50px;
+}
